@@ -1,2 +1,5 @@
 # Python
-python学习
+蟒蛇学习
+Hi friends！
+
+I'm gavin
